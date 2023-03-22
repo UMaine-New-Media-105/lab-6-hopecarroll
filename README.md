@@ -1,1 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/P4o6z4mW)
+Lab 6 challenge: The challenge was to have a sprite eat "the food" using key pressed. To do this I created a orange sprite with a function which 
+ate the red "food" function. In order to move the orange sprite to the red sprite I used the "keyPressed function to move the ornage sprite around the canvas with the up and down and left and right arrows. The red food sprite was spawned in a different location everytime the game was played using the random command and assigning those to the foodX and foodY variables. Then using the dist command I was able to change the color of the orange sprite to red and have the food sprite disapear when the orange sprit collided with the food sprite. 
+If I had more time I would have added the 5 spwans using a sperate variable and call that variable in draw and add it by one each time. 
+I also would have added more ellaborate sprites but I wanted to understand the code before I did that. 
+Link to my code: https://editor.p5js.org/hopecarroll/sketches/iBfUZwRgy
